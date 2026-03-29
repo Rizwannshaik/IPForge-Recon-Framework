@@ -6,6 +6,19 @@ IPForge is an advanced Python-based reconnaissance framework designed for penetr
 
 It combines multiple networking and recon techniques into a single powerful CLI tool.
 
+⚡ Why This Project?
+
+Most recon tools focus on one thing.
+
+IPForge combines:
+
+🧠 Address format manipulation (rare skill)
+🛡️ WAF detection + bypass
+📂 Endpoint discovery
+🌍 Subdomain enumeration
+
+👉 All in one async-powered framework.
+
 ---
 
 ## ⚡ Features
