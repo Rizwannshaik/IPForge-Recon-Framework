@@ -11,6 +11,7 @@ MAX_CONCURRENT = 20
 # ---------------------------
 # INPUT DETECTION
 # ---------------------------
+
 def detect_type(inp):
     try:
         socket.inet_aton(inp)
