@@ -1,0 +1,21 @@
+🏗️ Framework Architecture
+
+User Input
+   ↓
+Target Normalization
+   ↓
+Format Conversion Engine
+   ↓
+Recon Modules
+   ├── Web Recon (HTTP/HTTPS)
+   ├── WAF Detection (Behavioral)
+   ├── WAF Bypass Engine
+   ├── Endpoint Discovery
+   └── Subdomain Enumeration
+
+
+⚙️ Tech Stack
+Python 3
+asyncio (concurrency)
+aiohttp (async networking)
+socket (low-level networking)
